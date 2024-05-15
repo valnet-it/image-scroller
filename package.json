@@ -1,0 +1,23 @@
+{
+  "name": "@valnet-it/image-scroller",
+  "version": "1.0.0",
+  "description": "images as galleries",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/valnet-it/image-scroller.git"
+  },
+  "keywords": [
+    "images",
+    "galleries"
+  ],
+  "author": "Lamara Mouffok",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/valnet-it/image-scroller/issues"
+  },
+  "homepage": "https://github.com/valnet-it/image-scroller#readme"
+}
